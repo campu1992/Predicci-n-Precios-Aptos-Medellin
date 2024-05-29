@@ -1,4 +1,5 @@
 Predicción de Precios de Apartamentos en Medellín, Colombia
+
 Este proyecto tiene como objetivo predecir los precios de los apartamentos en Medellín, Colombia, utilizando técnicas de web scraping, procesamiento de datos y modelos predictivos. A continuación, se detallan los pasos realizados y los resultados obtenidos.
 
 Descripción del Proyecto
